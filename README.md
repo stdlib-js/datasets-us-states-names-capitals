@@ -158,16 +158,16 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/datasets-us-states-names-capitals-cli.svg
 [npm-url]: https://npmjs.org/package/@stdlib/datasets-us-states-names-capitals-cli
 
-[test-image]: https://github.com/stdlib-js/datasets-us-states-names-capitals/actions/workflows/test.yml/badge.svg?branch=v0.1.0
-[test-url]: https://github.com/stdlib-js/datasets-us-states-names-capitals/actions/workflows/test.yml?query=branch:v0.1.0
+[test-image]: https://github.com/stdlib-js/datasets-us-states-names-capitals@v0.1.0/actions/workflows/test.yml/badge.svg?branch=v0.1.0
+[test-url]: https://github.com/stdlib-js/datasets-us-states-names-capitals@v0.1.0/actions/workflows/test.yml?query=branch:v0.1.0
 
-[coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/datasets-us-states-names-capitals/main.svg
-[coverage-url]: https://codecov.io/github/stdlib-js/datasets-us-states-names-capitals?branch=main
+[coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/datasets-us-states-names-capitals@v0.1.0/main.svg
+[coverage-url]: https://codecov.io/github/stdlib-js/datasets-us-states-names-capitals@v0.1.0?branch=main
 
 <!--
 
-[dependencies-image]: https://img.shields.io/david/stdlib-js/datasets-us-states-names-capitals.svg
-[dependencies-url]: https://david-dm.org/stdlib-js/datasets-us-states-names-capitals/main
+[dependencies-image]: https://img.shields.io/david/stdlib-js/datasets-us-states-names-capitals@v0.1.0.svg
+[dependencies-url]: https://david-dm.org/stdlib-js/datasets-us-states-names-capitals@v0.1.0/main
 
 -->
 
@@ -178,17 +178,17 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 
 [stdlib-authors]: https://github.com/stdlib-js/stdlib/graphs/contributors
 
-[cli-section]: https://github.com/stdlib-js/datasets-us-states-names-capitals#cli
-[cli-url]: https://github.com/stdlib-js/datasets-us-states-names-capitals/tree/cli
-[@stdlib/datasets-us-states-names-capitals]: https://github.com/stdlib-js/datasets-us-states-names-capitals/tree/main
+[cli-section]: https://github.com/stdlib-js/datasets-us-states-names-capitals@v0.1.0#cli
+[cli-url]: https://github.com/stdlib-js/datasets-us-states-names-capitals@v0.1.0/tree/cli
+[@stdlib/datasets-us-states-names-capitals]: https://github.com/stdlib-js/datasets-us-states-names-capitals@v0.1.0/tree/main
 
 [umd]: https://github.com/umdjs/umd
 [es-module]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
 
-[deno-url]: https://github.com/stdlib-js/datasets-us-states-names-capitals/tree/deno
-[umd-url]: https://github.com/stdlib-js/datasets-us-states-names-capitals/tree/umd
-[esm-url]: https://github.com/stdlib-js/datasets-us-states-names-capitals/tree/esm
-[branches-url]: https://github.com/stdlib-js/datasets-us-states-names-capitals/blob/main/branches.md
+[deno-url]: https://github.com/stdlib-js/datasets-us-states-names-capitals@v0.1.0/tree/deno
+[umd-url]: https://github.com/stdlib-js/datasets-us-states-names-capitals@v0.1.0/tree/umd
+[esm-url]: https://github.com/stdlib-js/datasets-us-states-names-capitals@v0.1.0/tree/esm
+[branches-url]: https://github.com/stdlib-js/datasets-us-states-names-capitals@v0.1.0/blob/main/branches.md
 
 [pddl-1.0]: http://opendatacommons.org/licenses/pddl/1.0/
 
@@ -204,7 +204,7 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 
 [@stdlib/datasets/us-states-names]: https://github.com/stdlib-js/datasets-us-states-names
 
-[@stdlib/datasets/us-states-names-capitals]: https://github.com/stdlib-js/datasets-us-states-names-capitals
+[@stdlib/datasets/us-states-names-capitals]: https://github.com/stdlib-js/datasets-us-states-names-capitals@v0.1.0
 
 <!-- </related-links> -->
 
