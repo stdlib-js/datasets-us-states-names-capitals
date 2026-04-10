@@ -137,6 +137,7 @@ var t = table();
 <!-- eslint no-undef: "error" -->
 
 ```javascript
+var format = require( '@stdlib/string-format' );
 var capitalize = require( '@stdlib/string-capitalize' );
 var table = require( '@stdlib/datasets-us-states-names-capitals' );
 
@@ -157,7 +158,7 @@ function getCapital( state ) {
 
     // Ensure a valid state name was provided...
     if ( capital === void 0 ) {
-        throw new Error( 'unrecognized state name. Value: `' + state + '`.' );
+        throw new Error( format( 'unrecognized state name. Value: `%s`.', state ) );
     }
     return capital;
 }
