@@ -263,7 +263,6 @@ The data files (databases) are licensed under an [Open Data Commons Public Domai
 
 -   <span class="package-name">[`@stdlib/datasets-us-states-capitals`][@stdlib/datasets/us-states-capitals]</span><span class="delimiter">: </span><span class="description">A list of US state capitals in alphabetical order according to state name.</span>
 -   <span class="package-name">[`@stdlib/datasets-us-states-names`][@stdlib/datasets/us-states-names]</span><span class="delimiter">: </span><span class="description">A list of US state names in alphabetical order.</span>
--   <span class="package-name">[`@stdlib/datasets-us-states-names-capitals`][@stdlib/datasets/us-states-names-capitals]</span><span class="delimiter">: </span><span class="description">US state names and capitals.</span>
 
 </section>
 
@@ -351,8 +350,6 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [@stdlib/datasets/us-states-capitals]: https://github.com/stdlib-js/datasets-us-states-capitals
 
 [@stdlib/datasets/us-states-names]: https://github.com/stdlib-js/datasets-us-states-names
-
-[@stdlib/datasets/us-states-names-capitals]: https://github.com/stdlib-js/datasets-us-states-names-capitals
 
 <!-- </related-links> -->
 
